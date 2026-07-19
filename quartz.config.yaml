@@ -1,12 +1,11 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Blackmarsh
+  pageTitleSuffix: "(nombre provisional)"
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
+  analytics: null
+  locale: es-ES
   baseUrl: marco-1337.github.io/blackmarsh
   ignorePatterns:
     - private
