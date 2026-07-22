@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Página de inicio
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Bienvenido al índice de Blackmarsh. Aquí se publicarán recursos para las partidas e información del mundo a medida que se vayan descubriendo cosas.
+
+---
+
+# Creación de personajes
+
+- [[Linaje]]
