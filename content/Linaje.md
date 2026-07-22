@@ -67,3 +67,6 @@ Los rasgos se dividen en tres categorías:
 De nuevo, esto son sugerencias/ideas que pueden servir para orientaros, pero no son una limitación. Lo que sugiero es que si tenéis una idea la comentéis con el GM.
 
 La **única limitación** que se impondrá es que los personajes deben de ser humanos, como primer rasgo identificativo.
+
+---
+
