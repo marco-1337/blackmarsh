@@ -1,5 +1,5 @@
 ---
-title: Linajes de la humanidad
+title: Linaje
 ---
 La humanidad ha sido la especie dominante del mundo, su permanencia a lo largo de la historia ha resultado en mutaciones y divergencias, dando lugar a una semi-humanidad heterogénea, arcana y salvaje.
 
