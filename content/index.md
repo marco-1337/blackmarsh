@@ -8,3 +8,4 @@ Bienvenido al índice de Blackmarsh. Aquí se publicarán recursos para las part
 # Creación de personajes
 
 - [[Linaje]]
+- [[Tecnología]]
